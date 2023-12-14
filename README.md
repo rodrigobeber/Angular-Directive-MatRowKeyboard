@@ -33,4 +33,4 @@ That still some work to do as:
 - Not hiding the first line under the table header
 - Accepting focus automatically when the web page is loaded
 
-Use it as you want, change it as you want.
+Use it as you want, modify it as you want.
